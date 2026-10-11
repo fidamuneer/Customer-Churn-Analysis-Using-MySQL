@@ -56,3 +56,6 @@ This project focuses on analyzing an e-commerce customer churn dataset using MyS
 ## Key Learning
 
 Through this project, I gained practical experience in using MySQL for data cleaning, transformation, and exploratory analysis. It helped me understand how SQL can be used to turn raw customer data into meaningful information for business decision-making.
+
+## File Link
+https://drive.google.com/file/d/120VsXKzRv31-4k2AqVzV43buA_sa4fVz/view?usp=drive_link
